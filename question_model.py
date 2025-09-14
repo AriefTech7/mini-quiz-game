@@ -1,6 +1,6 @@
 class Question:
     def __init__(self, q_text, q_answer):
-        self.answer = q_answer
-        self.text = q_text
-
-
+        # Constructor kelas Question
+        # Inisialisasi atribut teks pertanyaan dan jawaban
+        self.answer = q_answer  # Menyimpan jawaban benar
+        self.text = q_text  # Menyimpan teks pertanyaan

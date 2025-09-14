@@ -3,7 +3,7 @@ question_dataa = [
         "type": "boolean",
         "difficulty": "easy",
         "category": "Science: Computers",
-        "question": "&quot;HTML&quot; stands for Hypertext Markup Language.",
+        "question": "HTML stands for Hypertext Markup Language.",
         "correct_answer": "True",
         "incorrect_answers": ["False"]
     },
